@@ -1,0 +1,21 @@
+{
+  "name": "digitalizador-imagenes",
+  "version": "1.0.0",
+  "description": "Digitalizador de imágenes - TP Integrador Comunicación de Datos - UTN FRLP",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Grupo 01 - S32",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
