@@ -135,19 +135,10 @@ export default function App() {
           <div className="canvas-container">
             <canvas ref={origRef}></canvas>
             <p>Original</p>
-            {stats && (
-              <p className="image-info">Tamaño estimado: {formatBytes(stats.originalSize)}</p>
-            )}
           </div>
           <div className="canvas-container">
             <canvas ref={transRef}></canvas>
             <p>Transformada</p>
-            {stats && (
-              <p className="image-info">
-                Tamaño estimado: {formatBytes(stats.processedSize)}
-                {" · "} Reducción: {stats.reduction}%
-              </p>
-            )}
           </div>
         </div>
 
