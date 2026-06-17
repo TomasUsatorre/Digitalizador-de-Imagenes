@@ -23,7 +23,7 @@ Aplicación web desarrollada con **React + Vite y JS** que permite cargar imáge
 
 ```
 Proyecto/
-├── Entrega 1/        → Documento de diseño y planificación (.docx)
+├── Entrega 1/
 ├── Entrega 2/        → Código fuente de la aplicación
 │   ├── src/
 │   │   ├── App.jsx           # Componente principal React
@@ -34,7 +34,7 @@ Proyecto/
 │   ├── logo.png
 │   ├── vite.config.js
 │   └── package.json
-└── Entrega 3/        → Presentación final y ejecutable
+└── Entrega 3/
 ```
 
 ---
